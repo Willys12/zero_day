@@ -1,8 +1,8 @@
 
 
-#How to code in my local Machine
+# How to code in my local Machine
 
-##General topics
+## Genral Topics
 * Describe what a vagrant is
 - What's the meaning of Ubuntu
 - What is a virtual machine
